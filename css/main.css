@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+#siteContainer 
+{
+	margin: 0 auto;
+	width: 920px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.hidden {
+	display: none;
+}
+
+h2 {
+	font-family: helvetica, sans-serif;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+/* Index/Home */
+
+#logo {
+	width: 903px;
+	height: 209px;
+	background-color: black;
+	margin-bottom: 10px;
+}
+
+#upperNav {
+	width: 903px;
+	height: 29px;
+	background-color: black;
+}
+
+#photo1 {
+  	width: 430px;
+	height: 259px;
+	background-color: black;
+	margin: 10px;
+	float: left;
+}
+
+#photo2 {
+  	width: 430px;
+	height: 259px;
+	background-color: black;
+	margin-right: 22px;
+	margin-top: 10px;
+	float: right;
+}
+
+#text {
+	width: 903px;
+	height: 189px;
+	background-color: black;
+	margin-bottom: 10px;
+	margin-top: 285px;
+}
+
+#lowerNav {
+	width: 903px;
+	height: 107px;
+	background-color: black;
+}
+
+/* Shop */
+
+#text2 {
+	width: 903px;
+	height: 189px;
+	background-color: black;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+#photo3 {
+  	width: 258px;
+	height: 258px;
+	background-color: black;
+	margin: 18px 18px 18px 30px;
+	float: left;
+}
+
+#photo4 {
+  	width: 258px;
+	height: 258px;
+	background-color: black;
+	margin: 18px;
+	float: left;
+}
+
+#photo5 {
+  	width: 258px;
+	height: 258px;
+	background-color: black;
+	margin: 18px;
+	float: left;
+}
+
+
+#lowerNav2 {
+	width: 903px;
+	height: 107px;
+	background-color: black;
+	margin-top: 315px;
+}

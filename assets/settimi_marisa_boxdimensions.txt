@@ -1,0 +1,19 @@
+﻿Home/Index Page
+
+
+Logo box - 903 px x 209 px
+Upper nav - 903 px x 29 px
+Photo 1 - 430 px x 259 px
+Photo 2 - 430 px x 259 px
+Text - 903 px x 189 px
+Lower nav - 903 px x 107 px
+
+
+Shop Page
+
+
+Text 2 - 903 px x 189 px
+Photo 3 - 258 px x 258 px
+Photo 4 - 258 px x 258 px
+Photo 5 - 258 px x 258 px
+Lower nav 2 - 903 px x 107 px
